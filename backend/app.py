@@ -6,8 +6,8 @@ from datetime import datetime
 
 client = Client(
     'telegram_bridge',
-    api_id = ,
-    api_hash = ''
+    api_id = '23830477'
+    api_hash = '19f8365d98fb11c9cd6c1eaa8b1fa4b8'
 )   
 
 app = Flask(__name__)
